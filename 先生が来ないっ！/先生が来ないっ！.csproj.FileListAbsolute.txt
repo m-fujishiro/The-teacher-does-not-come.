@@ -1,6 +1,0 @@
-C:\Users\student\Desktop\大井先生が来ないっ！\bin\Release\大井先生が来ないっ！.exe.config
-C:\Users\student\Desktop\大井先生が来ないっ！\bin\Release\大井先生が来ないっ！.exe
-C:\Users\student\Desktop\大井先生が来ないっ！\bin\Release\大井先生が来ないっ！.pdb
-C:\Users\student\Desktop\大井先生が来ないっ！\obj\Release\大井先生が来ないっ！.csproj.CoreCompileInputs.cache
-C:\Users\student\Desktop\大井先生が来ないっ！\obj\Release\大井先生が来ないっ！.exe
-C:\Users\student\Desktop\大井先生が来ないっ！\obj\Release\大井先生が来ないっ！.pdb
